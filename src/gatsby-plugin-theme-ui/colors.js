@@ -32,14 +32,14 @@ export default {
     highlight: `hsla(207, 95%, 15%, 1)`,
   },
   modes: {
-    // dark: {
-    //   text: lightWhite,
-    //   background: grey90,
-    //   primary: purple30,
-    //   secondary: lightWhite,
-    //   muted: opaqueLightWhite,
-    //   highlight: purple60,
-    //   heading: white,
-    // },
+    dark: {
+      text: lightWhite,
+      background: grey90,
+      primary: purple30,
+      secondary: lightWhite,
+      muted: opaqueLightWhite,
+      highlight: purple60,
+      heading: white,
+    },
   },
 }

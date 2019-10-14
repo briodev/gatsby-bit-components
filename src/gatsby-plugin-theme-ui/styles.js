@@ -2,6 +2,9 @@ export default {
   root: {
     fontFamily: `body`,
   },
+  h1: {
+    color: 'primary'
+  },
   pre: {
     variant: `prism`,
     fontFamily: `monospace`,
