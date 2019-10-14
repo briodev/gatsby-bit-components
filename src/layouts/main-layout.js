@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-import "./main-layout.css"
+import "./main.css"
 
 import { css, Styled } from "theme-ui"
 
@@ -13,7 +13,7 @@ const Layout = ({ children, props }) => {
 
       <Styled.root>
         <NavBar />
-        <main className="content-space">
+        <main className="mt-10">
             {children}
         </main>
         <footer>
