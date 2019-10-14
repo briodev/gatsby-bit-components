@@ -9,7 +9,7 @@ export default (props) => {
       <Styled.h1
         {...props}
         sx={{
-            color: 'highlight',
+            color: 'orange.6',
             fontSize: 5
         }}
       
@@ -18,7 +18,7 @@ export default (props) => {
       <Styled.p
         {...props}
         sx={{
-            color: 'primary',
+            color: 'teal.6',
             textDecoration: 'underline'
         }}
       >
