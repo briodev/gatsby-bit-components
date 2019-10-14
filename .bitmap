@@ -14,5 +14,64 @@
         "origin": "AUTHORED",
         "exported": true
     },
+    "briodev.web-ui-components-react/tailwind-example@1.0.2": {
+        "files": [
+            {
+                "relativePath": "src/components/shared-components/tailwind-example/beach-work.jpg",
+                "test": false,
+                "name": "beach-work.jpg"
+            },
+            {
+                "relativePath": "src/components/shared-components/tailwind-example/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/components/shared-components/tailwind-example/logo.svg",
+                "test": false,
+                "name": "logo.svg"
+            }
+        ],
+        "mainFile": "src/components/shared-components/tailwind-example/index.js",
+        "trackDir": "src/components/shared-components/tailwind-example",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "main": {
+        "files": [
+            {
+                "relativePath": "src/layouts/main.css",
+                "test": false,
+                "name": "main.css"
+            }
+        ],
+        "mainFile": "src/layouts/main.css",
+        "origin": "AUTHORED",
+        "exported": false
+    },
+    "main-layout": {
+        "files": [
+            {
+                "relativePath": "src/layouts/main-layout.js",
+                "test": false,
+                "name": "main-layout.js"
+            }
+        ],
+        "mainFile": "src/layouts/main-layout.js",
+        "origin": "AUTHORED",
+        "exported": false
+    },
+    "working-main-layout": {
+        "files": [
+            {
+                "relativePath": "src/layouts/working-main-layout.js",
+                "test": false,
+                "name": "working-main-layout.js"
+            }
+        ],
+        "mainFile": "src/layouts/working-main-layout.js",
+        "origin": "AUTHORED",
+        "exported": false
+    },
     "version": "14.4.1"
 }
