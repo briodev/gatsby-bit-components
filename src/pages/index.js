@@ -4,7 +4,7 @@ import { Styled, css } from "theme-ui"
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
 
-import CTA100 from '../components/call-to-action/cta100'
+import CTA100 from '../components/shared-components/cta100'
 
 export default (props) => {
   return (

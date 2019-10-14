@@ -41,9 +41,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "bit": {
-    "env": {
-      "compiler": "bit.envs/compilers/react@1.0.2"
-    },
+    "env": {},
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "npm"
   }
