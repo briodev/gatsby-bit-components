@@ -20,7 +20,7 @@
     "@theme-ui/prism": "^0.2.40",
     "@theme-ui/tailwind": "^0.2.41",
     "@theme-ui/typography": "^0.2.40",
-    "gatsby": "^2.15.29",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-theme-ui": "^0.2.43",
     "gatsby-theme-style-guide": "^0.2.44",
     "react": "^16.10.2",
